@@ -61,4 +61,3 @@ bash
 
 nuclei -t ./nuclei-templates -u https://target.com
 
-The script is designed to generate templates for underrepresented categories (XSS, SQL Injection, CSRF, OWASP Top 10, XXE, and Open Redirect ) to complement the existing templates and reach your 5GB+ requirement. The templates follow the standard Nuclei format and include comprehensive detection patterns for each vulnerability type.
